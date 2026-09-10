@@ -20,7 +20,7 @@
 
 <p>If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.</p>
 
-<h2 id="table-of-contents">Table of Contents</h2>
+<h2 id="table-of-contents">Table of Contents</h2> 
 
 <ul>
   <li><a href="#demo">Demo</a></li>
